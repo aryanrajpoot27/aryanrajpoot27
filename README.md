@@ -1,4 +1,6 @@
-
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header"/>
+</a>
 <h1 align="center">Hi 👋, I'm Aryan Rajpoot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
