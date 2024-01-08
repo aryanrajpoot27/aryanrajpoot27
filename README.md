@@ -2,16 +2,16 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header"/>
 </a>
 <h1 align="center">Hi 👋, I'm Aryan Rajpoot</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanrajpoot27&label=Profile%20views&color=0e75b6&style=flat" alt="aryanrajpoot27" /> </p>
 
-- 🔭 I’m currently working on **Request Management System**
+- 🔭 I’m currently working on **Driver Drowsiness Alert System**
 
-- 🌱 I’m currently learning **ReactJS, DJANGO**
+- 🌱 I’m currently learning **ReactJS, NodeJS , ExpressJS**
 
-- 💬 Ask me about **JavaScript, Tailwind**
+- 💬 Ask me about **JavaScript, Bootstrap, Tailwind**
 
 - 📫 How to reach me **araryan1212@gmail.com**
 
